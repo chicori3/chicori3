@@ -1,4 +1,14 @@
-### Hi there 👋
+### HELLO WORLD 
+
+<p>
+  <em>
+    I am <b>Junior</b> developer. 👨‍💻 <br />
+  </em>  
+</p>
+
+![Chicori3's GitHub stats](https://github-readme-stats.vercel.app/api?username=chicori3&theme=dracula&show_icons=true)
+
+
 
 <!--
 **chicori3/chicori3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
