@@ -16,11 +16,13 @@
   
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <div align="center">
   
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
-
+ 
   
   <div>
     <h4>FRONT-END</h4>
