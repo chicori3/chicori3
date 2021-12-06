@@ -1,18 +1,12 @@
 <div align="center">
   
-  <div><h1>HELLO WORLD</h1></div>
+  <div><h1>👋안녕하세요! 저는 이시안입니다.</h1></div>
   
   [![I C-AN's GitHub stats](https://github-readme-stats.vercel.app/api?username=chicori3&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chicori3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-  
-  <p>
-    <em>
-      I am <b>Junior</b> developer. 👨‍💻 <br />
-    </em>  
-  </p>
-  <hr>
+  ---
   
 </div>
 
