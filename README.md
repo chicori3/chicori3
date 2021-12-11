@@ -1,17 +1,16 @@
+
 <div align="center">
   
-  <div><h1>👋안녕하세요! 저는 이시안입니다<div></h1>
+  <div><h1>👋안녕하세요! 저는 이시안입니다.</h1></div>
   
   [이시안 포트폴리오](https://www.notion.so/Going-Steady-e2bed1b258e04b368b069cefc061d922)
-   
+  
   [![I C-AN's GitHub stats](https://github-readme-stats.vercel.app/api?username=chicori3&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chicori3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
   ---
   
 </div>
-
 <div align="center">
     
   <div>
