@@ -1,27 +1,27 @@
-<div align="center">
+<!-- <div align="center" style="margin-bottom:100em"> -->
 
   <div><h1>👋안녕하세요! 저는 이시안입니다.</h1></div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchicori3&count_bg=%235FCFDF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchicori3&count_bg=%235FCFDF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 👉[포트폴리오](https://www.notion.so/Going-Steady-e2bed1b258e04b368b069cefc061d922)👈
+  ### 👉[포트폴리오](https://www.notion.so/Going-Steady-e2bed1b258e04b368b069cefc061d922)👈
+<!-- </div> -->
+<!--   <img align='left' src="https://github-readme-stats.vercel.app/api?username=chicori3&show_icons=true&theme=radical">  -->
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=chicori3&show_icons=true&theme=radical">
+  [![I C-AN's GitHub stats](https://github-readme-stats.vercel.app/api?username=chicori3&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--   <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chicori3"> -->
 
-<!--     [![I C-AN's GitHub stats](https://github-readme-stats.vercel.app/api?username=chicori3&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chicori3">
-
-<!--     [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chicori3)](https://solved.ac/chicori3/) -->
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chicori3)](https://solved.ac/chicori3/)
 
   <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chicori3&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+  
 
-</div>
 
-<div align="center" style="margin-top:15rem">
+<!-- <div align="center" style="margin-top:430px;padding-top:10000px"> -->
 
 ---
 
-  <div>
+  <div style="margin-top:1000px;padding-top:1000px">
     <h4>FRONT-END</h4>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -62,7 +62,7 @@
   
 ---
 
-</div>
+<!-- </div> -->
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-369%20Thousand%20lines%20of%20code-blue)
