@@ -43,7 +43,7 @@
   </div>
 
   <div>
-    <h4>DEVOPS</h4>
+    <h4>DB</h4>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
     <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
   </div>
