@@ -3,8 +3,6 @@
   <div><h1>👋안녕하세요! 저는 이시안입니다.</h1></div>
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchicori3&count_bg=%235FCFDF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-  ### 👉[포트폴리오](https://www.notion.so/Going-Steady-e2bed1b258e04b368b069cefc061d922)👈
 <!-- </div> -->
 <!--   <img align='left' src="https://github-readme-stats.vercel.app/api?username=chicori3&show_icons=true&theme=radical">  -->
 
