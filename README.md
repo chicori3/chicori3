@@ -17,7 +17,7 @@
 
 <!-- <div align="center" style="margin-top:430px;padding-top:10000px"> -->
 
----
+<!---
 
   <div style="margin-top:1000px;padding-top:1000px">
     <h4>FRONT-END</h4>
@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   </div>
   
----
+--->
 
 <!-- </div> -->
 
